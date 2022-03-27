@@ -1,0 +1,56 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+.content_chitiet h3{
+    font-size: 23px;
+    padding: 7px;
+    font-weight: 100;
+    font-family: sans-serif;
+    margin-top: 24px;
+}
+.content_chitiet{
+    max-width: 1200px;
+    height: auto;
+    margin: 0 auto;
+}
+.chitiet {
+    display: flex;
+    padding: 10px;
+    font-size: 16px;
+}
+.chitiet__left{
+    width: 157px;
+}
+.chitiet__left span {
+    color: rgb(136, 134, 134);
+    padding-right: 10px;
+    font-family: sans-serif;
+    font-size: 15px;
+}
+.chitiet__right p{
+    font-family: sans-serif;
+    font-size: 15px;
+}
+.motasanpham{
+ max-width: 1200px;
+ margin: 0 auto;
+ padding: 10px;
+}
+.motasanpham h3{
+    font-size: 23px;
+    padding: 7px;
+    font-weight: 100;
+    font-family: sans-serif;
+    margin-top: 24px;
+}
+.motasanpham p{
+    line-height: 22px;
+    font-family: sans-serif;
+    font-size: 15px;
+}
