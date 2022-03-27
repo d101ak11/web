@@ -1,0 +1,23 @@
+.comment{
+    max-width: 1200px;
+    margin: 0 auto;
+}
+.comment h2{
+    font-size: 23px;
+    padding: 7px;
+    font-weight: 100;
+    font-family: sans-serif;
+    margin-top: 24px;
+}
+.comment textarea{
+    padding: 10px;
+    width: 510px;
+    height: 100px;
+}
+.comment button {
+    padding: 10px;
+    background: #fa5430;
+    border: none;
+    border-radius: 5px;
+    margin-top: 10px;
+}
